@@ -8,9 +8,9 @@ This is a solution to the [Browser extension manager UI](https://www.frontendmen
 ## 🌐 Links
 
 ### 🚀 Solution
-- Solution URL: [here](https://www.frontendmentor.io/solutions/contact-form-main-react-ts-IWREpMXybX)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/browser-extension-manager-react-tailwind-ts-ryT9sZjwry)
 ### 🔗 Live Demo
-- Live Site URL: [here](https://contact-form-six-teal.vercel.app/)
+- Live Site URL: [here](https://browser-manager-1eqo.vercel.app/)
 
 
 ## 🛠️ Built With
