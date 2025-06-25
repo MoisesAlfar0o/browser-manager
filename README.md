@@ -1,9 +1,9 @@
 # 📩 Browser extension manager UI
 
-This is a solution to the [Contact form main](https://www.frontendmentor.io/challenges/browser-extension-manager-ui-yNZnOfsMAp). 
+This is a solution to the [Browser extension manager UI](https://www.frontendmentor.io/challenges/browser-extension-manager-ui-yNZnOfsMAp). 
 
 ## 📸 Screenshot
-![Design preview for the Contact form main](./src/design/desktop-design-light.jpg)
+![Design preview for the Browser extension manager UI](./src/design/desktop-design-light.jpg)
 
 ## 🌐 Links
 
