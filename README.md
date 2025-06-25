@@ -1,4 +1,4 @@
-# 📩 Browser extension manager UI
+# 🧩🔧 Browser extension manager UI
 
 This is a solution to the [Browser extension manager UI](https://www.frontendmentor.io/challenges/browser-extension-manager-ui-yNZnOfsMAp). 
 
