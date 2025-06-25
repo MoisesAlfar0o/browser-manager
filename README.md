@@ -20,10 +20,23 @@ This is a solution to the [Browser extension manager UI](https://www.frontendmen
 
 ## 🎯 Key Features
 
-- ✅ Real-time email validation with clear error messages
-- 📱 Fully responsive layout (mobile-first approach)
-- ✨ Instant feedback with stylish notifications using sonner
-- ♿️ Accessible form with proper input labels and aria attributes
+## 🔑 Key Features
+
+- ✅ **Dynamic extension list**  
+  View all available browser extensions with name, logo, and status.
+
+- 🔄 **Filter by status**  
+  Easily filter extensions by **active**, **inactive**, or **all** — with filter state synced to the URL for sharable views.
+
+- ⚙️ **Extension controls**  
+  Toggle activation status or remove extensions directly from the interface.
+
+- 🧠 **Centralized state management**  
+  Built using `useReducer` and the Context API to maintain clean, scalable state logic.
+
+- 🌐 **Remote data loading**  
+  Extensions are fetched dynamically from a mock service (`getExtensions`) — ready for API integration.
+
 
 ## 👨‍💻 Author
 
