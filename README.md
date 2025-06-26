@@ -18,8 +18,6 @@ This is a solution to the [Browser extension manager UI](https://www.frontendmen
 - [React](https://reactjs.org/)
 - 🟦 TypeScript
 
-## 🎯 Key Features
-
 ## 🔑 Key Features
 
 - ✅ **Dynamic extension list**  
